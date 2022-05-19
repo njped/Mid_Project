@@ -4,7 +4,7 @@
 }
 
 @font-face {
-    font-family: Raleway;
+    font-family: 'Raleway', sans-serif;
     src: url(https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap);
 }
 
@@ -17,7 +17,7 @@
     justify-content: center;
     align-items: center;
     color: white;
-    font-family: Helvetica, sans-serif, Raleway;
+    font-family: Helvetica, sans-serif, 'Raleway';
 }
 
 .banner h1 {
@@ -32,7 +32,6 @@
     padding: 10px;
     font-family: Raleway;
     font-size: 60px;
-
 }
 
 .nav {
@@ -58,18 +57,20 @@
     height: 350px;
     width: 100%;
     color: white;
-    font-family: Helvetica, sans-serif, Raleway;
+    font-family: Helvetica, sans-serif, 'Raleway';
 }
 
 .section1 h2 {
     font-size: 40px;
-    padding: 10px;
+    padding-top: 115px;
+    padding-left: 20px;
 }
 
 .section1 p {
     font-size: 30px;
     padding: 5px;
-    margin: 10px;
+    margin-top: 10px;
+    font-family: 'Raleway';
 }
 
 .section1 img {
@@ -84,22 +85,25 @@
     height: 350px;
     width: 100%;
     color: white;
-    font-family: Helvetica, sans-serif, Raleway;
+    font-family: Helvetica, sans-serif, 'Raleway';
 }
 
 .section2 h2 {
     font-size: 45px;
-    padding: 10px;
+    padding-top: 100px;
+    padding-left: 10px;
 }
 
 .section2 p {
     font-size: 30px;
     padding: 5px;
     margin: 10px;
+    font-family: 'Raleway';
 }
 
 .section2 img {
     height: 350px;
+    padding-left: 10px;
     float: right;
     clear: both;
 }
@@ -109,18 +113,20 @@
     height: 350px;
     width: 100%;
     color: white;
-    font-family: Helvetica, sans-serif, Raleway;
+    font-family: Helvetica, sans-serif, 'Raleway';
 }
 
 .section3 h2 {
     font-size: 45px;
-    padding: 10px;
+    padding-top: 115px;
+    padding-left: 10px;
 }
 
 .section3 p {
     font-size: 30px;
     padding: 5px;
     margin: 10px;
+    font-family: 'Raleway';
 }
 
 .section3 img {
